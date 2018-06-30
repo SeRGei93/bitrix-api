@@ -1,0 +1,15 @@
+{
+  "name": "bitrix-api",
+    "description": "Bitrix API IBlock",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alexander Shatalov",
+      "email": "alexander.shataloff@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/var-dumper": "3.4.x-dev"
+  }
+}
